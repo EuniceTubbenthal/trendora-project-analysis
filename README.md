@@ -18,7 +18,16 @@ The dataset includes information on items purchased, purchased amount, payment m
 - Debit Cards and Cash are most preferred payment methods to Bank Transfer                  
 - Highest sales revenues are generated during Fall season.
 
+## KPI Analysis
+![trendora-kpi-screenshot](trendora-kpi-screenshot.png)
+
+## Pivot Table
+![trendora-pivot-table](trendora-pivot-table.png)
+
+## Dashboard
 ![trendora-dashboard-screenshot](tredora-dashboard-screenshot.png)
+
+
 
 
 
