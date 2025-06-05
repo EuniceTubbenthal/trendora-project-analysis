@@ -27,6 +27,10 @@ The dataset includes information on items purchased, purchased amount, payment m
 ## Dashboard
 ![trendora-dashboard-screenshot](tredora-dashboard-screenshot.png)
 
+## Link To Trendora Shopping Report
+Click this link to explore the trendora shopping excel report[Click here](https://1drv.ms/x/c/9041d4409b5e9228/EWNgNrtRycdNs9Zwul8coDsBBUbX01eWafBqTZVYoVStfw?e=EGVNop)
+
+
 
 
 
