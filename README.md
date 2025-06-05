@@ -13,4 +13,9 @@ The dataset includes information on items purchased, purchased amount, payment m
 ![trendora-data-screenshot](trendora-data-screenshot.png)
 
 ## Key Findings
+- Top purchased items are Jewelries, Blouses, and Pants.
+- The top purchasing states include Montana, California, Idaho, Illinois & Alabama.
+- Debit Cards and Cash are most preferred payment methods to Bank Transfer                  
+- Highest sales revenues are generated during Fall season.
+
 
