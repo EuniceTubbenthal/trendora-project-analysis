@@ -19,7 +19,7 @@ The dataset includes information on items purchased, purchased amount, payment m
 - Highest sales revenues are generated during Fall season.
 
 ## KPI Analysis
-![trendora-kpi-screenshot](trendora-kpi-screenshot.png)
+![trendora-kpi-png](trendora-kpi-png.png)
 
 ## Pivot Table
 ![trendora-pivot-table](trendora-pivot-table.png)
